@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lambersonistaken" alt="lambersonistaken" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lambersonnn_" target="blank"><img src="https://img.shields.io/twitter/follow/lambersonnn_?logo=twitter&style=for-the-badge" alt="lambersonnn_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lambersonn_" target="blank"><img src="https://img.shields.io/twitter/follow/lambersonnn_?logo=twitter&style=for-the-badge" alt="lambersonnn_" /></a> </p>
 
 - 🔭 I’m currently working on **Mobile Projects**
 
