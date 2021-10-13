@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Emir</h1>
-<h3 align="center">Future mobil and game developer :)</h3>
+<h3 align="center">Future mobile and game developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambersonistaken&label=Profile%20views&color=0e75b6&style=flat" alt="lambersonistaken" /> </p>
 
