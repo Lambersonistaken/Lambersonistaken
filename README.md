@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lambersonistaken" alt="lambersonistaken" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Projects**
+- 🔭 I’m currently working on **C++/Game Development**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **C++ and Kotlin**
 
 - 📫 How to reach me **ismailemirr54@gmail.com**
 
-- ⚡ Fun fact **Music addict**
+- ⚡ Fun fact **Music and sport addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
