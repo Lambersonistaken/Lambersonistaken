@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ismail Emir</h1>
-<h3 align="center">Future Game and Mobile Developer</h3>
+<h3 align="center">Future Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambersonistaken&label=Profile%20views&color=0e75b6&style=flat" alt="lambersonistaken" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lambersonistaken" alt="lambersonistaken" /></a> </p>
 
-- 🔭 I’m currently working on **C++/Game Development**
+- 🔭 I’m currently working on **C++/Game Development/Web3**
 
-- 🌱 I’m currently learning **C++ and Kotlin**
+- 🌱 I’m currently learning **C++ and Frontend**
 
 - 📫 How to reach me **ismailemirr54@gmail.com**
 
