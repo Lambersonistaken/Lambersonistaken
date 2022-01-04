@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lambersonistaken" alt="lambersonistaken" /></a> </p>
 
-- 🔭 I’m currently working on **C++/Game Development/Web3**
+- 🔭 I’m currently working on **C++/Frontend/Mobile/Web3**
 
 - 🌱 I’m currently learning **C++ and Frontend**
 
