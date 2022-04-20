@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@lambersonn](https://medium.com/@lambersonn)
 
-- 💬 Ask me about **Sports,Music :D**
+- 💬 Ask me about **Sports,Music**
 
 - 📫 How to reach me **ismailemirr54@gmail.com**
 
