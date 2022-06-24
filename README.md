@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,React.js**
+- 🌱 I’m currently learning **HTML,CSS,Javascript,Vue,React**
 
 - 📝 I regularly write articles on [https://medium.com/@lambersonn](https://medium.com/@lambersonn)
 
