@@ -1,27 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ismail Emir</h1>
-<h3 align="center">Future Frontend-Mobile Developer</h3>
+# 💫 About Me:
+🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning HTML,CSS,Javascript,Vue,React<br><br>📝 I regularly write articles on https://medium.com/@lambersonn<br><br>💬 Ask me about Sports,Music<br><br>📫 How to reach me ismailemirr54@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lambersonistaken&label=Profile%20views&color=0e75b6&style=flat" alt="lambersonistaken" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lambersonn_" target="blank"><img src="https://img.shields.io/twitter/follow/lambersonn_?logo=twitter&style=for-the-badge" alt="lambersonn_" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismail_emirr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lambersontr/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lambersonn_) 
 
-- 🔭 I’m currently working on **Frontend Development**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lambersonistaken&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lambersonistaken&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lambersonistaken&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,Vue,React**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📝 I regularly write articles on [https://medium.com/@lambersonn](https://medium.com/@lambersonn)
-
-- 💬 Ask me about **Sports,Music**
-
-- 📫 How to reach me **ismailemirr54@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lambersonn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lambersonn_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lambersontr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lambersontr/" height="30" width="40" /></a>
-<a href="https://instagram.com/ismail_emirr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail_emirr_" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambersonistaken&show_icons=true&locale=en&layout=compact" alt="lambersonistaken" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lambersonistaken&" alt="lambersonistaken" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Lambersonistaken&icon=0&color=0)](https://visitcount.itsvg.in)
