@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lambersonn_" target="blank"><img src="https://img.shields.io/twitter/follow/lambersonn_?logo=twitter&style=for-the-badge" alt="lambersonn_" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript,Vue,React**
 
