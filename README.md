@@ -1,5 +1,5 @@
 # 💫 About Me: Future Software Engineer
-🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning React and Blockchain<br><br>📝 I regularly write articles on https://lamberson.hashnode.dev<br><br>💬 Ask me about Sports,Music<br><br>📫 How to reach me ismailemirr54@gmail.com
+🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning React<br><br>📝 I regularly write articles on https://lamberson.hashnode.dev<br><br>💬 Ask me about Sports,Music<br><br>📫 How to reach me ismailemirr54@gmail.com
 
 
 ## 🌐 Socials:
