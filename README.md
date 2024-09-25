@@ -1,5 +1,5 @@
-# 💫 About Me: Junior Software Engineer
-🔭 I’m currently working on Fullstack Development<br><br>🌱 I’m currently learning Fullstack Technologies<br><br>📝 I regularly write articles on https://medium.com/@lambersonengineer<br><br>💬 Ask me about Sports,Music<br><br>📫 How to reach me ismailemirr54@gmail.com
+# 💫 About Me: Junior Frontend Engineer
+🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Frontend & Fullstack Technologies<br><br>📝 I regularly write articles on https://medium.com/@lambersonengineer<br><br>💬 Ask me about Sports,Music<br><br>📫 How to reach me ismailemirr54@gmail.com
 
 
 ## 🌐 Socials:
