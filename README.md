@@ -22,6 +22,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lambersonistaken&theme=merko&hide_border=true)<br/>
+![Lambersonistaken's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lambersonistaken&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lambersonistaken&icon=3&color=8)](https://visitcount.itsvg.in)
