@@ -19,7 +19,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lambersonistaken&theme=merko&hide_border=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lambersonistaken&show_icons=true&theme=merko)
+<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lambersonistaken&icon=3&color=8)](https://visitcount.itsvg.in)
