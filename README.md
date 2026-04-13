@@ -1,4 +1,4 @@
-# 💫 About Me: Founding Engineer
+# 💫 About Me: Full-Stack Engineer
 🔭 I’m currently working on Fullstack + AI Engineering<br><br>🌱 I’m currently learning Fullstack & AI Technologies<br><br>📝 I regularly write articles on https://medium.com/@lambersonengineer<br><br>💬 Ask me about Sports,Music<br><br>📫 How to reach me ismailemirr54@gmail.com - [Personal website](https://ismail-emir.vercel.app/)
 
 
